@@ -1,0 +1,6 @@
+ipykernel
+findspark
+pyspark
+requests
+
+scrapy
